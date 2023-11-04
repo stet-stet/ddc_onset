@@ -1,3 +1,8 @@
+# DDC-ONSET H5PYizing
+
+This was modified by me for the purpose of aiding training.
+Below is the original README, written by [chrisdonahue](https://github.com/chrisdonahue).
+
 # Music onset detector from Dance Dance Convolution
 
 This is a simple CPU- and GPU-compatible PyTorch port of the lightweight CNN-based music onset detector model from [Dance Dance Convolution](https://arxiv.org/abs/1703.06891), originally referred to in that work as the "step placement" model.
